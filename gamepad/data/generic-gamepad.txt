@@ -1,0 +1,7 @@
+gamepad
+joystickX	joystickX	3	SLIDER	Axe X	0	1.0	0.0
+joystickY	joystickY	3	SLIDER	Axe Y	0	1.0	0.0
+button1	button1	1	BUTTON	Bouton 0	0	0.0	0.0
+button2	button2	1	BUTTON	Bouton 1	0	0.0	0.0
+button3	button3	1	BUTTON	Bouton 2	0	0.0	0.0
+button4	button4	1	BUTTON	Bouton 3	0	0.0	0.0
