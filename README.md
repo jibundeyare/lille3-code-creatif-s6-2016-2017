@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce repo contient le code écrit durant le cours de code créatif semestre 4 de Lille 3, session 2016-2017.
+Ce repo contient le code écrit durant le cours de code créatif semestre 6 de Lille 3, session 2016-2017.
 
 ## Prérequis
 
