@@ -43,17 +43,19 @@ void setup() {
 void draw() {
 	background(bgColor);
 
-	if (!drawCp5 && mousePressed) {
-		if (mouseButton == LEFT) {
-			pgDraw();
-		}
-	}
-
 	image(pg, 0, 0);
 
 	if (drawCp5) {
 		cp5.draw();
 	}
+}
+
+void mouseDragged() {
+  if (!drawCp5) {
+    if (mouseButton == LEFT) {
+      pgDraw();
+    }
+  }
 }
 
 void mouseClicked() {
