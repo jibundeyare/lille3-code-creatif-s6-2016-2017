@@ -1,10 +1,10 @@
-PVector mouseVector = new PVector();
-int brushR;
-int brushG;
-int brushB;
-int brushA;
-
 void pgDraw() {
+	PVector mouseVector = new PVector();
+	int brushR;
+	int brushG;
+	int brushB;
+	int brushA;
+
 	mouseVector.x = mouseX - pmouseX;
 	mouseVector.y = mouseY - pmouseY;
 

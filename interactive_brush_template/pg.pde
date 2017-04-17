@@ -1,18 +1,18 @@
-PVector mouseVector = new PVector();
-float angle;
-
 void pgDraw() {
+	PVector mouseVector = new PVector();
+	float angle;
+
 	mouseVector.x = mouseX - pmouseX;
 	mouseVector.y = mouseY - pmouseY;
-  angle = mouseVector.heading();
+	angle = mouseVector.heading();
 
-  println(mouseVector);
-  println(angle);
+	println(mouseVector);
+	println(angle);
 
 	pg.beginDraw();
 
-  // exemple
-  pg.line(pmouseX, pmouseY, mouseX, mouseY); 
+	// exemple
+	pg.line(pmouseX, pmouseY, mouseX, mouseY); 
 
 	pg.endDraw();
 }
