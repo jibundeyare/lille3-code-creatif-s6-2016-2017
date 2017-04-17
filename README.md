@@ -17,17 +17,13 @@ Tous les sketchs fonctionnent avec les systèmes d'exploitation suivants :
 
 ## Ressources en ligne
 
-Le site officiel de processing : [Processing.org](https://processing.org/)
-
-La documentation officielle : [Language Reference (API) \ Processing 2+](https://processing.org/reference/)
-
-Les tutoriels du site officiel : [Tutorials \ Processing.org](https://processing.org/tutorials/)
-
-Des tutoriels vidéos par Daniel Shiffman : [The Coding Train - YouTube](https://www.youtube.com/user/shiffman)
-
-Des tutoriels vidéos par Abe Pazos : [Fun Programming - video tutorials to learn creative coding](https://www.funprogramming.org/)
-
-Le « hub » de processing : [OpenProcessing - Algorithmic Designs Created with Processing](https://www.openprocessing.org/)
-
-Un manuel open source : [/chapter: Introduction / Processing](https://fr.flossmanuals.net/processing/introduction/)
+- Le site officiel de processing : [Processing.org](https://processing.org/)
+- La documentation officielle : [Language Reference (API) \ Processing 2+](https://processing.org/reference/)
+- Les tutoriels du site officiel : [Tutorials \ Processing.org](https://processing.org/tutorials/)
+- Des tutoriels vidéos par Daniel Shiffman : [The Coding Train - YouTube](https://www.youtube.com/user/shiffman)
+- Des tutoriels vidéos par Abe Pazos : [Fun Programming - video tutorials to learn creative coding](https://www.funprogramming.org/)
+- Un manuel open source : [/chapter: Introduction / Processing](https://fr.flossmanuals.net/processing/introduction/)
+- Tous les sketchs du livre « Generative Gestaltung » : [About - GENERATIVE GESTALTUNG](http://www.generative-gestaltung.de/)
+- Le « hub » de processing : [OpenProcessing - Algorithmic Designs Created with Processing](https://www.openprocessing.org/)
+- Bilbliographie : [Books \ Processing.org](https://processing.org/books/)
 
