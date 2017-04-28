@@ -1,4 +1,4 @@
-# Cours de code créatif (2016-2017)
+# Cours de code créatif semestre 6 (2016-2017)
 
 ## Description
 

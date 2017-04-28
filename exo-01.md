@@ -30,7 +30,7 @@ points : 3/20
 
 points : 8/20
 
-- utilisation appropriée des structures de contrôle (if, switch, while, do while, for)
+- utilisation appropriée des structures de contrôle (`if`, `switch`, `while`, `do while`, `for`)
 - utilisation appropriée des variables globales et des variables locales
 - création et utilisation de variables
 - création et utilisation de fonctions *
@@ -45,7 +45,7 @@ points : 5/20
 - l'utilisation des données fournies
 - la création et l'utilisation de nouvelles données *
 - l'utilisation de formules mathématiques *
-- l'utilisation de concept issus d'autres discipliones (biologie, physique mécanique ou autre) *
+- l'utilisation de concept issus d'autres disciplines (biologie, botanique, physique ou autre) *
 - l'utilisation de plugins (librairies tierces) *
 
 ### L'univers esthétique
@@ -53,7 +53,7 @@ points : 5/20
 points : 4/20
 
 - l'utilisation des couleurs
-- l'utilisation des formes primitives
+- l'utilisation des polygones (forme primitives ou non)
 - la mise en page et l'ergonomie de l'application
 - le parti pris esthétique (univers riche vs univers minimaliste par exemple) *
 - l'originalité conceptuelle
